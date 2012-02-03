@@ -433,6 +433,8 @@
     <string name="summaryoff_disable_num_check">Le bouton d\'action et le menu seront actifs dès qu\'un chiffre sera entré</string>
     <string name="title_enable_haptic_feedback">Retour haptique</string>
     <string name="summary_enable_haptic_feedback">Utiliser le retour haptique du clavier - voir les Paramètres CyanogenMod pour les réglages</string>
+    <string name="title_format_phone_number">Formater les numéros</string>
+    <string name="summary_format_phone_number">Utiliser le masque de saisie des numéros de téléphone</string>
     <string name="title_change_digits_color">Couleur des touches</string>
     <string name="title_digits_color_pressed">Appuyées</string>
     <string name="title_digits_color_focused">Mises en évidence</string>
